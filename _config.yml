@@ -22,7 +22,7 @@ navigation:
 - title: Contact Us
   url: /contactus
 
-paginate:            1
+paginate:            5
 disqus:              #"your-disqus"
 
 # Build settings
