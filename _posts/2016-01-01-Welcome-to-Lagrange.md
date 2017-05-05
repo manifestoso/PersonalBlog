@@ -13,6 +13,8 @@ image:
 
 Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
+<script id="dsq-count-scr" src="//robqiao.disqus.com/count.js" async></script> 
+
 <div id="disqus_thread"></div>
 <script>
 
