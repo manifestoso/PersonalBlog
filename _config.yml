@@ -2,9 +2,9 @@
 title:               Manifest's Blog
 tagline:             The place to share fun
 description:
-baseurl:            "/PersonalBlog"
-url:                "https://robqiao.github.io"
-github:
+baseurl:             #"/PersonalBlog"
+url:                 #"https://robqiao.github.io"
+github:	             "robqiao"		
   url:               "https://github.com/robqiao"
 author:		     	
   name:              "Robert Qiao"
