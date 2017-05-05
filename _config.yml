@@ -5,7 +5,7 @@ description:
 baseurl:             #"/PersonalBlog"
 url:                 #"https://robqiao.github.io"
 github:	            		
-  url:               "https://github.com/robqiao/PersonalBlog/blob/master"
+  url:               #"https://github.com/robqiao/PersonalBlog"
 author:		     	
   name:              "Robert Qiao"
   email:             "robert.qiao@flinders.edu.au"
