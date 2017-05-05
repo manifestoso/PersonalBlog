@@ -2,24 +2,22 @@
 title:               Manifest's Blog
 tagline:             The place to share fun
 description:
-baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+baseurl:            "/PersonalBlog"
+url:                "https://robqiao.github.io"
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
-author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  url:               "https://github.com/robqiao"
+author:		     	
+  name:              "Robert Qiao"
+  email:             "robert.qiao@flinders.edu.au"
+  twitter:           "robqiao"
+  github:            "robqiao"
+  linkedin:          "robqiao"
 navigation:
 - title: About Us
   url: /aboutus
 - title: Writing
   url: /writing
-- title: Contact
+- title: Contact Us
   url: /contactus
 
 paginate:            5
