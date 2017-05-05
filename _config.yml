@@ -23,7 +23,7 @@ navigation:
   url: /contactus
 
 paginate:            5
-disqus:              #"your-disqus"
+disqus:              "robqiao"
 
 # Build settings
 markdown:            kramdown
