@@ -4,8 +4,8 @@ tagline:             The place to share fun
 description:
 baseurl:             #"/PersonalBlog"
 url:                 #"https://robqiao.github.io"
-github:	             "robqiao"		
-  url:               #"https://github.com/robqiao"
+github:	            		
+  url:               "https://github.com/robqiao"
 author:		     	
   name:              "Robert Qiao"
   email:             "robert.qiao@flinders.edu.au"
