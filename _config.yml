@@ -15,12 +15,12 @@ author:
   facebook:          "Le.Paul.94"
   linkedin:          "lenpaul"
 navigation:
-- title: About
-  url: /about
+- title: About Us
+  url: /aboutus
 - title: Writing
   url: /writing
 - title: Contact
-  url: /contact
+  url: /contactus
 
 paginate:            5
 disqus:              #"your-disqus"
