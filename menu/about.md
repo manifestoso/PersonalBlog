@@ -1,5 +1,6 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing.
+
+This is Group Blog page, group updates and announcements all go here. 
