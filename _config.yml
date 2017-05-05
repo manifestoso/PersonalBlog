@@ -5,7 +5,7 @@ description:
 baseurl:             #"/PersonalBlog"
 url:                 #"https://robqiao.github.io"
 github:	            		
-  url:               "https://github.com/robqiao/PersonalBlog"
+  url:               "https://github.com/robqiao"
 author:		     	
   name:              "Robert Qiao"
   email:             "robert.qiao@flinders.edu.au"
@@ -20,7 +20,7 @@ navigation:
 - title: Contact Us
   url: /contactus
 
-paginate:            5
+paginate:            1
 disqus:              #"your-disqus"
 
 # Build settings
