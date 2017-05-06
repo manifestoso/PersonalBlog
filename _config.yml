@@ -1,6 +1,6 @@
 # Site Settings
 title:               Manifest's Blog
-tagline:             The place to share fun
+tagline:             The place where the fun starts
 description:
 baseurl:             #"/PersonalBlog"
 url:                 #"https://robqiao.github.io"
