@@ -1,5 +1,5 @@
 ---
-layout: announcement
+layout: default
 title: Announcements
 ---
 <ul class="announcements">
