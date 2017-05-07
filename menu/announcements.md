@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: announcement
 title: Announcements
 ---
 <ul class="announcements">
