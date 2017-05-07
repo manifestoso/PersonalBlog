@@ -17,6 +17,8 @@ author:
 navigation:
 - title: About Us
   url: /aboutus
+- title: News
+  url: /announcements
 - title: Blogs
   url: /blogs
 - title: Contact Us
