@@ -2,7 +2,7 @@
 layout: page
 title: Announcements
 ---
-<ul class="announcements">
+<ul class="announcement">
   {% for announcement in site.announcements %}
  
     {% unless announcement.next %}
