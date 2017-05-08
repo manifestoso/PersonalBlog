@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: page 
 title: Announcements
+comment: true
 ---
-<ul class="announcement">
+<ul class="announcements">
   {% for announcement in site.announcements %}
  
     {% unless announcement.next %}
@@ -15,7 +16,7 @@ title: Announcements
       {% endif %}
     {% endunless %}
 
-     <li itemscope>
+    <li itemscope>
       <a href="{{ site.github.url }}{{ announcement.url }}">{{ announcement.title }}</a>
       <p class="announcement-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ announcement.date | date: "%B %-d" }}</span></p>
     </li>
