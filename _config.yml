@@ -4,6 +4,7 @@ tagline:             The place where the fun starts
 description:
 baseurl:             #"/PersonalBlog"
 url:                 #"https://robqiao.github.io"
+permalink:	     #mypageurl.html
 github:	            		
   url:               #"https://github.com/robqiao/PersonalBlog"
 author:		     	
