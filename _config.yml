@@ -6,6 +6,10 @@ collections:
   announcements:
     output:      true
     permalink:   /:categories/:year/:month/:day/:title/
+collections:
+  downloads:
+    output:      true
+    permalink:   /:categories/:year/:month/:day/:title/
 baseurl:             "/PersonalBlog"
 url:                 "https://robqiao.github.io"
 github:	            		
@@ -25,6 +29,8 @@ navigation:
   url: /announcements
 - title: Blogs
   url: /blogs
+- title: Downloads
+  url: /downloads
 - title: Contact Us
   url: /contactus
 
