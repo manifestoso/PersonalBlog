@@ -4,6 +4,11 @@ title: "Substrate degradome predictor"
 categories: downloads
 tag: [software]
 comments: true
+image:
+  feature: Structure_Demp.gif
+  teaser: Structure_Demp-teaser.gif
+  credit:
+  creditlink: 
 ---
 
 ### Substrate degradome predictor 
