@@ -6,7 +6,6 @@ collections:
   announcements:
     output:      true
     permalink:   /:categories/:year/:month/:day/:title/
-collections:
   downloads:
     output:      true
     permalink:   /:categories/:year/:month/:day/:title/
