@@ -1,7 +1,6 @@
 ---
 layout: page 
 title: Announcements
-comment: true
 ---
 <ul class="announcements">
   {% for announcement in site.announcements %}
