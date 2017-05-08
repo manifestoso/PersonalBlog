@@ -2,9 +2,12 @@
 title:               Manifest's Blog
 tagline:             The place where the fun starts
 description:
+collections:
+  announcements:
+    output:      true
+    permalink:   /:categories/:year/:month/:day/:title/
 baseurl:             "/PersonalBlog"
 url:                 "https://robqiao.github.io"
-permalink:	     mypageurl.html
 github:	            		
   url:               #"https://github.com/robqiao/PersonalBlog"
 author:		     	
@@ -31,5 +34,5 @@ disqus:              "robqiao"
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:           none
+permalink:	     none 
 gems:                [jekyll-paginate]
