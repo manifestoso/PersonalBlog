@@ -3,5 +3,5 @@
 set -e # halt script on error
 
 bundle install
-bundle exec jekyll build
+bundle exec jekyll build --incremental --watch
 bundle exec htmlproofer  --disable-external --assume-extension --allow-hash-href --empty-alt-ignore ./_site 
