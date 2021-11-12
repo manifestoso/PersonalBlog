@@ -12,7 +12,7 @@ collections:
 baseurl:             "/PersonalBlog"
 url:                 "https://manifestoso.github.io"
 github:	            		
-  url:               "https://manifestoso.github.io"
+  url:               "https://manifestoso.github.io/PersonalBlog"
 author:		     	
   name:              "Robert Qiao"
   email:             "robert.qiao@flinders.edu.au"
