@@ -10,7 +10,7 @@ image:
   creditlink:
 ---
 
-Hi there! My name is Robert. I am currently interested in oncology informatics. This blog covers broad topics of bioinformatics and infrastructures that supports heavy computational tasks, I will also share some of other personal interests including but not limited to artistic coffee brewing and piloting.
+Hi there! My name is Robert. I am currently interested in oncology informatics. This blog covers a broad range of topics include bioinformatics and infrastructures that support heavy computational tasks. I will also share some of my other personal interests, which include but are not limited to artistic coffee brewing and piloting.
 
 
 ### Temporary suspension of this site
