@@ -11,14 +11,14 @@ collections:
     permalink:        /:categories/:title/
 baseurl:             "/PersonalBlog"
 url:                 "https://manifestoso.github.io"
-github:	            		
-  url:               "https://manifestoso.github.io/PersonalBlog"
-author:		     	
+# github:
+#   url:               "https://manifestoso.github.io/PersonalBlog"
+author:
   name:              "Robert Qiao"
   email:             "robert.qiao@flinders.edu.au"
   twitter:           "robqiao"
-  instagram:         #""
-  facebook:          #""
+#  instagram:         #""
+#  facebook:          #""
   github:            "manifestoso"
   linkedin:          "robqiao"
 navigation:
@@ -39,5 +39,5 @@ disqus:              "robqiao"
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:	         none 
+permalink:	         none
 plugins:             [jekyll-paginate]
