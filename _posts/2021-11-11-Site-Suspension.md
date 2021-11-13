@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "Moving Forward"
 categories: journal
 tags: [documentation,sample]
 image:
