@@ -14,4 +14,4 @@ Hi there! My name is Robert. I am currently interested in oncology informatics. 
 
 
 ### Temporary suspension of this site
-This site will no be maintained until further notice, however the topics on oncology informatics are still continuing at [DPP4 Research Gateway]{https://dpp4researchgroup.github.io/DPP4-HomePage/}, I hope to see you there.
+This site will no be maintained until further notice, however the topics on oncology informatics are still continuing at [DPP4 Research Gateway](https://dpp4researchgroup.github.io/DPP4-HomePage/), I hope to see you there.
